@@ -10,6 +10,8 @@ CVE List:
 
 3# (Currently zero lol): https://www.cvedetails.com/vulnerability-list/vendor_id-33/product_id-47/version_id-302471/Linux-Linux-Kernel-4.4.147.html
 
+4#: https://www.cybersecurity-help.cz/vdb/linux_foundation/linux_kernel/4.4.147/
+
 Potential Exploits:
 
 1#: https://github.com/grant-h/qu1ckr00t
