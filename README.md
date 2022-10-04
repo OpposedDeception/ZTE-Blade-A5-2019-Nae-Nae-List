@@ -10,3 +10,7 @@ CVE List:
 Potential Exploits:
 1#: https://github.com/grant-h/qu1ckr00t
 (Could be rewritten to Armv7 to get root shell)
+
+Kernel related:
+Changelog 1#:
+https://cdn.kernel.org/pub/linux/kernel/v4.x/ChangeLog-4.4.147
