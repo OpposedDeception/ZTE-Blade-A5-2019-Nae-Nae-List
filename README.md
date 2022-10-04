@@ -27,3 +27,5 @@ https://download.ztedevices.com/device/global/support/opensource/mobilephones/op
 
 4.4.147 Source Code 3#: https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.4.147.tar.xz
 
+4.4.147 SRC Code from the webview 4#: https://kernel.googlesource.com/pub/scm/linux/kernel/git/ralf/linux/+/refs/tags/linux-4.4.147
+
