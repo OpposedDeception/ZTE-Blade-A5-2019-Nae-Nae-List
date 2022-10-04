@@ -15,3 +15,6 @@ Kernel related:
 
 Changelog 1#:
 https://cdn.kernel.org/pub/linux/kernel/v4.x/ChangeLog-4.4.147
+
+Mountlinks 2#:
+https://download.ztedevices.com/device/global/support/opensource/mobilephones/open_source_notice.html
